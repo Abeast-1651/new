@@ -35,8 +35,10 @@ If we take 5 example words from our vocabulary (say… the words “aardvark”,
 ```markdown
 'print('Hello world)'
 
-![Minion](https://miro.medium.com/max/1286/1*AzOH04Gp1XrYPthCurFPfQ.jpeg)
 ```
+
+![Min](https://miro.medium.com/max/1286/1*AzOH04Gp1XrYPthCurFPfQ.jpeg)
+
 <img src="markdownmonstericon.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
