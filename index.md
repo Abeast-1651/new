@@ -34,8 +34,9 @@ This means embeddings allow us to build much more generalisable models–instead
 If we take 5 example words from our vocabulary (say… the words “aardvark”, “black”, “cat”, “duvet” and “zombie”) and examine their embedding vectors created by the one-hot encoding method discussed above, the result would look like this:
 ```markdown
 'print('Hello world)'
-## Word Embedding Algorithms
 ```
+## Word Embedding Algorithms
+
 1. Embedding Layer
 2. Word2Vec
 3. GloVe
